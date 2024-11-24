@@ -1,0 +1,12 @@
+ipython
+matplotlib
+pandas
+pingouin
+plotly
+plotly-express
+numpy
+scikit-learn
+scipy
+seaborn
+statsmodels
+streamlit
