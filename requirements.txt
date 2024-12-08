@@ -1,6 +1,7 @@
 babel
 bioinfokit
 ipython
+jupyterlab
 matplotlib
 pandas
 pingouin
@@ -8,6 +9,7 @@ plotly
 plotly-express
 numpy
 scikit-learn
+scikit-posthocs 
 scipy
 seaborn
 statsmodels
